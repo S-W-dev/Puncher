@@ -12,8 +12,12 @@ Saved
 *.suo
 *.xcodeproj
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.xcworkspace
 *.log
+=======
+*.xcworkspace
+>>>>>>> parent of fbe68e8... Update .gitignore
 =======
 *.xcworkspace
 >>>>>>> parent of fbe68e8... Update .gitignore
