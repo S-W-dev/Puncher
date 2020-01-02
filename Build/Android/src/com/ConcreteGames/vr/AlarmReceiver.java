@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.vr;
+package com.ConcreteGames.vr;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

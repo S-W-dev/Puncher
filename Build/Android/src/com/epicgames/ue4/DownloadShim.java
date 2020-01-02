@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.vr.OBBDownloaderService;
-import com.YourCompany.vr.DownloaderActivity;
+import com.ConcreteGames.vr.OBBDownloaderService;
+import com.ConcreteGames.vr.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.vr.OBBData;
+import com.ConcreteGames.vr.OBBData;
 
 
 public class DownloadShim
