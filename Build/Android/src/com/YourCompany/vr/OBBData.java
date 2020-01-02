@@ -1,4 +1,4 @@
-package com.ConcreteGames.vr;
+package com.YourCompany.vr;
 
 public class OBBData
 {

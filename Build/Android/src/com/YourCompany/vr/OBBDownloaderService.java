@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ConcreteGames.vr;
+package com.YourCompany.vr;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.ConcreteGames.vr.AlarmReceiver.class.getName();
+        return com.YourCompany.vr.AlarmReceiver.class.getName();
     }
 }

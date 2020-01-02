@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ConcreteGames.vr;
+package com.YourCompany.vr;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
