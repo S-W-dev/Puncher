@@ -11,5 +11,9 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
+<<<<<<< HEAD
 *.xcworkspace
 *.log
+=======
+*.xcworkspace
+>>>>>>> parent of fbe68e8... Update .gitignore
